@@ -1,4 +1,4 @@
-i am Pleased to present  project on Exploratory Data Analysis, titled 'Pizza Sales Report'. 
+I am Pleased to present  project on Exploratory Data Analysis, titled 'Pizza Sales Report'. 
 I utilized MySQL and Power BI to design and develop interactive visualizations, gaining valuable insights into business performance. 
 This project provides a comprehensive examination of sales data, driving business growth and improving customer experience. Key takeaways include(KPIs):
 - Retrieved specific sales data from the MySQL server
